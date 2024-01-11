@@ -76,7 +76,7 @@ JPA : 지속 가능한 사회 발전에 기여하고자 봉사, 후원, 커뮤�
 - 창고등록하기
 
 # ERD
-![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
+<img width="1025" alt="심봉사 ERD" src="https://github.com/code-hyun/simbongsa/assets/122762287/2b084aae-fb2a-4550-85ad-08a89ddaf375">
 
 # 프로젝트에서 느낀점
 - 어려웠던 부분 
