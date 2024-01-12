@@ -59,21 +59,9 @@ JPA : 지속 가능한 사회 발전에 기여하고자 봉사, 후원, 커뮤�
  # 📌 프로젝트에서 맡은 역할 
 - 프로젝트 부팀장, 서비스 기획 및 전반적인 구성,
 - 프론트 업무 : 고객센터, 봉사, 후원 
-- 백엔드 업무 : 펀딩
+- 백엔드 업무 : 커뮤니티게시판
 - DB 설계 및 구축 
 
-### 프론트 진행 - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개--(프론트)" > 상세보기 - WIKI 이동</a>
-- 고객센터 
-- 봉사
-- 후원 
-
-### 백엔드 진행 - <a href="https://github.com/code-hyun/JimCarry/wiki/맡은-기능-소개-(백엔드)" >상세보기 - WIKI 이동</a>
-##### 고객센터
-- 공지사항
-- 공지사항 상세보기
-- 문의하기
-##### 창고등록 
-- 창고등록하기
 
 # ERD
 <img width="1025" alt="심봉사 ERD" src="https://github.com/code-hyun/simbongsa/assets/122762287/2b084aae-fb2a-4550-85ad-08a89ddaf375">
